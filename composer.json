@@ -15,10 +15,5 @@
         "psr-4": {
             "Waxis\\Order\\": "src/"
         }
-    },
-    "extra": {
-        "branch-alias": {
-            "dev-master": "1.1.x-dev"
-        }
     }
 }
