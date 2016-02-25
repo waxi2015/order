@@ -1,0 +1,5 @@
+Provider:
+Waxis\Order\OrderServiceProvider::class,
+
+Alias:
+'Order'  => Waxis\Order\Order::class,
